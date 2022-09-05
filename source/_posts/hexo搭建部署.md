@@ -3,7 +3,7 @@ title: hexo搭建部署
 date: 2022-08-31 11:19:47
 tags:
 - hexo部署
-comments:
+comments: true
 
 ---
 
