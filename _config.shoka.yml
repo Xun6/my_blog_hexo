@@ -86,10 +86,11 @@ font:
 
 # project of https://www.iconfont.cn/
 # //at.alicdn.com/t/font_1832207_c8i9n1ulxlt.css => 1832207_c8i9n1ulxlt
-# 使用了我自己的iconfont
-# //at.alicdn.com/t/c/font_3629517_luntx6vqlk.css
-# iconfont: "3629517_luntx6vqlk"
-iconfont: "1832207_c8i9n1ulxlt"
+# //at.alicdn.com/t/font_1832207_igi8uaupcus.css
+# iconfont: "1832207_igi8uaupcus"
+# 使用了我自己的 iconfont 库
+# //at.alicdn.com/t/c/font_3633296_1y4tik0ndp4.css
+iconfont: "3633296_1y4tik0ndp4"
 
 menu:
   home: / || home
@@ -141,9 +142,9 @@ footer:
   since: 2010
   icon:
     # name: sakura rotate
-    name: magic rotate
+    name: xinxianguoshu_meiweizaocanjidan rotate
     # Change the color of icon, using Hex Code.
-    color: "#ffc0cb"
+    # color: "#4169E1" # 图标颜色
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
   count: true
   powered: true
