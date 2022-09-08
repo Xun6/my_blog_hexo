@@ -8,7 +8,8 @@ open_graph:
   #fb_app_id:
 
 # Assets
-statics: / #//cdn.jsdelivr.net/gh/Xun6/xun6.github.io@latest/
+statics: /  # 默认使用本地静态文件
+# statics: //cdn.jsdelivr.net/gh/Xun6/xun6.github.io@latest/  # 使用jsDelivr加速服务
 css: css
 js: js
 images: images
@@ -220,6 +221,11 @@ valine:
 
 # bgm
 audio:
+  # - name: "平凡的一天"
+  #   url: "https://music.163.com/#/song?id=569214247"
+  #   artist: "毛不易"
+  #   cover: ""
+  #   lrc: ""
   # - title: 列表1
   #   list:
   #    - https://music.163.com/#/playlist?id=2943811283

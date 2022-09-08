@@ -6,6 +6,8 @@ tags:
 comments: true
 valine:
 	placeholder: "1. 提问前请先仔细阅读本文档⚡\n2. 页面显示问题💥，请提供控制台截图📸或者您的测试网址\n3. 其他任何报错💣，请提供详细描述和截图📸，祝食用愉快💪"
+audio: false
+	- https://music.163.com/#/song?id=569214247	# 设置文章专属 bgm
 
 ---
 
